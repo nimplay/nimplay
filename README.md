@@ -21,3 +21,8 @@ Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Bluepri
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nimplay)  
 
 ![Profile views](https://gpvc.arturio.dev/nimplay)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimplay)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nimplay&show_icons=true&count_private=true)  
