@@ -15,9 +15,6 @@ Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Bluepri
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimplay)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimplay)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nimplay&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nimplay)  
 
