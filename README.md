@@ -10,7 +10,7 @@
 - I love music and I develop music for videogames and web environments.
 - I am currently upgrading my skills by doing the Microverse bootscamp where I get better at using tools like Javascript, HTML CSS, Webpack, SCSS, bootstrap and other development tools.
 
-Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint/
+-- ### Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint/
 
 
 
