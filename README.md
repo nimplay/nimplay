@@ -3,7 +3,7 @@
 
 ### I'm currently available for hire or open to new job opportunities.
 <div style="width:4rem;">
-![I am Web Developer](https://scontent.fccs7-1.fna.fbcdn.net/v/t1.6435-9/186456035_2596877413946276_8967203720281933450_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jh5gFJRIH1QAX-mND4_&_nc_ht=scontent.fccs7-1.fna&oh=00_AT-GF9dXzVuMvcX8mFZ-j9aer-ufvWlH6mBTT5ZGjX6WIA&oe=62ECF3A4)</div>
+![I am Web Developer] (https://scontent.fccs7-1.fna.fbcdn.net/v/t1.6435-9/186456035_2596877413946276_8967203720281933450_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jh5gFJRIH1QAX-mND4_&_nc_ht=scontent.fccs7-1.fna&oh=00_AT-GF9dXzVuMvcX8mFZ-j9aer-ufvWlH6mBTT5ZGjX6WIA&oe=62ECF3A4)</div>
 
 - I am a front-end and web application developer.
 - I am a technology enthusiast.
