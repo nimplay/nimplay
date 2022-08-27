@@ -11,7 +11,7 @@
 - 
 -
 -
-### Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint/
+### Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint/React/ReactRedux/ReactBootstrap/Material UI
 
 
 
