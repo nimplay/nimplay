@@ -4,9 +4,10 @@
 ### I'm currently available for hire or open to new job opportunities.
 
 I am a front-end and web application developer, And a technology enthusiast.
-I also have experience in the development of video games and gamification of web environments.
-I love music and I develop music for videogames and web environments.
-I am currently upgrading my skills by doing the Microverse online school where I get better at using tools like Javascript, HTML CSS, Webpack, SCSS, Ruby, Ruby&Rails, PosgresQL bootstrap and other development tools.
+- I also have experience in the development of video games and gamification of web environments.
+- I love music and I develop music for videogames and web environments.
+-
+-I am currently upgrading my skills by doing the Microverse online school where I get better at using tools like Javascript, HTML CSS, Webpack, SCSS, Ruby, Ruby&Rails, PosgresQL bootstrap and other development tools.
 
 ### Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint / React / ReactRedux / ReactBootstrap / Material UI / Ruby / Ruby&Rails / PostgresSQL / Pgadmin4 / MySQL
 
