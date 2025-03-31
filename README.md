@@ -9,7 +9,7 @@ I love music and I develop music for videogames and web environments.
 <br>
 I am currently upgrading my skills by doing the Microverse online school where I get better at using tools like Javascript, HTML CSS, Webpack, SCSS, Ruby, Ruby&Rails, PosgresQL bootstrap and other development tools.</p>
 
-### Skills: JS / HTML / CSS / Bootstrap / Webpack / C# / C++ / Unreal Engine Blueprint / React / ReactRedux / ReactBootstrap / Material UI / Ruby / Ruby&Rails / PostgresSQL / Pgadmin4 / MySQL
+### Skills: JS / HTML / CSS / Bootstrap / React / ReactBootstrap / Material UI / Ruby / Ruby&Rails / PostgresSQL / Pgadmin4 / MySQL / ANT Desing /Python / Falsk / Django / Machine Learning / Astro / Vue / Vite / Typescrip / Node js / Mongo DB
 
 
 
