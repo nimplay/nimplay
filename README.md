@@ -3,7 +3,7 @@
 
 ### I'm currently available for hire or open to new job opportunities.
 
-<p> I am a front-end and web application developer, And a technology enthusiast.<br>
+<p> I am a full-stack and web application developer, And a technology enthusiast.<br>
 I also have experience in the development of video games and gamification of web environments.<br>
 I love music and I develop music for videogames and web environments.
 <br>
